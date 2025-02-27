@@ -1,6 +1,6 @@
 package edu.training.jc.simple_output;
 
-public class TableOutput_07 {
+public class TableOutput07 {
 
 	public static void main(String[] args) {
 		System.out.println("---------------------------------");
