@@ -1,6 +1,6 @@
 package edu.training.jc.simple_output;
 
-public class FormattingWithinString_04 {
+public class FormattingWithinString04 {
 
 	public static void main(String[] args) {
 		System.out.println(	"1) Todoist - Balancing power and simplicity.\n"+
